@@ -1,3 +1,15 @@
 {
-    "EmpolyeeData":[]
+    "EmpolyeeData":[
+        {
+           
+
+        }
+    ],
+    "MockLogin":[
+        {
+            "Name":"Shravan",
+            "Email":"Shravan098@gmail.com",
+            "Password":"123456"
+        }
+    ]
 }
